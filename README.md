@@ -51,6 +51,8 @@ We would like to thank our lecturer for his guidance and support throughout the 
 - **[FilmCow SFX](https://filmcow.itch.io/filmcow-sfx)** by ***FilmCow***
 - **[Music Loop Bundle](https://tallbeard.itch.io/music-loop-bundle)** by ***Tallbeard Studios***
 
+## Source code
+could not be uploaded into github as per the limit of git lfs per account, if you want to try it, be sure to hit us up!
 
 ## Group Members
 ### 1. Cham Hao Cheng (1211304951)
